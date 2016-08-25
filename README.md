@@ -1,2 +1,3 @@
 # hello-world
-scratch rep
+
+Setting up hello-world repository! 
